@@ -1,10 +1,33 @@
 
- h1
+
+
+h1
 {
     color:rgba(166, 112, 25, 0.873);
                             font-family:impact;
-                            
+                            text-align:center;
 }
+
+
+figure
+{
+text-align: center; 
+font-family:Georgia;
+}
+
+form
+{
+text-align: center;
+font-family:Georgia;
+}
+
+
+p
+{
+    font-family:Georgia;
+    text-align: center;
+}
+
 
  html 
 {
